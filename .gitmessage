@@ -1,0 +1,6 @@
+# Suggested commit message examples
+# feat: add student status calculation
+# fix: validate marks range
+# test: add grade boundary tests
+# docs: improve project description
+# ci: update Python test workflow
