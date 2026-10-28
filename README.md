@@ -29,6 +29,8 @@ A small Python project designed for university practical sessions covering Git, 
 python -m pip install -r requirements.txt
 pytest
 ```
+## Pull request 
+I am demonstrating pull request by adding this line to ReadMe
 
 ## Project structure
 
@@ -48,6 +50,7 @@ student-grade-calculator/
 ├── requirements.txt
 └── README.md
 ```
+
 
 ## Suggested classroom workflow
 
