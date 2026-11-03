@@ -8,7 +8,7 @@ from src.grade_calculator import (
 )
 
 
-def def get_status(average):
+def test_get_status(average):
     assert get_status([30]) == "Fail"
     assert get_status([50]) == "Pass"
 

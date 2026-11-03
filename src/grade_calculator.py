@@ -1,4 +1,5 @@
 """Simple functions for calculating student grades."""
+
 def get_status(average):
     if average >= 40:
         return "Pass"
