@@ -23,6 +23,9 @@ A small Python project designed for university practical sessions covering Git, 
 - Git GUI, GitHub Desktop, SourceTree, or command line
 - Basic Python knowledge
 
+  ## student infomation
+  Jovita deena dsouza-25192118
+
 ## Run locally
 
 ```bash
