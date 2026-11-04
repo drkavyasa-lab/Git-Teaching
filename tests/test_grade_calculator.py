@@ -4,6 +4,7 @@ from src.grade_calculator import (
     calculate_average,
     calculate_grade,
     calculate_result,
+    get_status,
 )
 
 
@@ -47,3 +48,12 @@ def test_passed_result():
 def test_failed_result():
     result = calculate_result([20, 30, 35])
     assert result["passed"] is False
+
+def test_get_status_pass():
+    assert get_status(75) == "Pass"
+
+def test_get_status_fail():
+    assert get_status(30) == "Fail"
+
+def test_get_status_boundary():
+    assert get_status(40) == "Pass"

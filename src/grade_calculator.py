@@ -35,3 +35,8 @@ def calculate_result(marks):
         "grade": grade,
         "passed": average >= 40,
     }
+
+def get_status(average):
+    if average >= 40:
+        return "Pass"
+    return "Fail"
