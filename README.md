@@ -1,9 +1,8 @@
 # Student Grade Calculator — Git, GitHub & GitHub Actions Teaching Repository
-
+# MY first edits
 A small Python project designed for university practical sessions covering Git, GitHub collaboration, project management, and GitHub Actions CI.
-
+### feature text branch
 ## Learning path
-
 1. Git repository and working tree
 2. Staging and commits
 3. Git history and diff
